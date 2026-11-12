@@ -1,8 +1,8 @@
 class ScantailorReborn < Formula
   desc "Clean up scanned books into uniform, searchable black-and-white PDFs"
   homepage "https://github.com/AthanasiusOfAlex/ScanTailorReborn"
-  url "https://github.com/AthanasiusOfAlex/ScanTailorReborn/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "4021c506f78caf9dba47e38770148afdab13ae9e2f996f1721a6c1083b14be0e"
+  url "https://github.com/AthanasiusOfAlex/ScanTailorReborn/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "d33a23ed44d3796ee40df103562cfdf9e1500e373e8f7418d3e153b8ce0527b6"
   license "MIT"
 
   depends_on xcode: ["16.0", :build]
